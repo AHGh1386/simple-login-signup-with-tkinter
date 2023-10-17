@@ -1,1 +1,1 @@
-# simple-login-signup-with-tkinter
+# simple login & signup with tkinter
